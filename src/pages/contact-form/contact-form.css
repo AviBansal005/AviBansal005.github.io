@@ -1,0 +1,15 @@
+.contact-jumbotron {
+    background-image: url("../../assets/img/background/background.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  #leetcode-btn {
+    border-color: green;
+    color: green;
+  }
+  #leetcode-btn:hover {
+    background-color: green;
+    color: #ffffff;
+  }
+  
